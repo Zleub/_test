@@ -1,0 +1,11 @@
+{
+  "name": "test",
+  "dependencies": {
+    "@polymer/polymer": "^3.0.0",
+    "polymer-cli": "^1.7.3"
+  },
+  "devDependencies": {
+    "@webcomponents/webcomponentsjs": "^2.0.0",
+    "wct-browser-legacy": "^1.0.0"
+  }
+}

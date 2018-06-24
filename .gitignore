@@ -1,0 +1,9 @@
+.ftpconfig
+*.o
+pokemon
+*.crt
+*.csr
+*.key
+vendor/
+client/build/
+client/node_modules/

@@ -1,0 +1,7 @@
+function build
+		command node node_modules/polymer-cli/bin/polymer.js build
+end
+
+function install
+		command node node_modules/polymer-cli/bin/polymer.js install
+end
